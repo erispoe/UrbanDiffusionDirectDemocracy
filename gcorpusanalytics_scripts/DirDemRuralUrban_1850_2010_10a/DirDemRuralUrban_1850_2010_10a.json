@@ -1,0 +1,21 @@
+{
+    "Request": {
+        "Corpus": "books",
+        "YearDebut": "1850",
+        "YearEnd": "2010",
+        "TimeInterval": "10",
+        "Language": "en",
+        "Outfile": "results.csv",
+        "Expressions": [
+            {
+                "Expression": "\"direct democracy\" \"united states\" rural"
+            },
+            {
+                "Expression": "\"direct democracy\" \"united states\" urban"
+            },
+                        {
+                "Expression": "\"direct democracy\" \"united states\""
+            }
+        ]
+    }
+}

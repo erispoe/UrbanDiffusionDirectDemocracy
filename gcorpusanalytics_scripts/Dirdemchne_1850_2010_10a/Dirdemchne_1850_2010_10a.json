@@ -1,0 +1,22 @@
+{
+    "Request": {
+        "Corpus": "books",
+        "YearDebut": "1850",
+        "YearEnd": "2010",
+        "TimeInterval": "10",
+        "Language": "en",
+        "Outfile": "results.csv",
+        "NullThreshold": "100",
+        "Expressions": [
+            {
+                "Expression": "\"direct democracy\""
+            },
+            {
+                "Expression": "\"direct democracy\" switzerland"
+            },
+            {
+                "Expression": "\"direct democracy\" \"new england\""
+            }
+        ]
+    }
+}
